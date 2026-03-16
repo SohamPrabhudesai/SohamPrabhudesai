@@ -122,7 +122,7 @@ Contributed features and improvements to the Linux display management tool.
 
 # GitHub Stats
 
-![]![](https://github-readme-activity-graph.vercel.app/graph?username=SohamPrabhudesai&theme=gruvbox&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=SohamPrabhudesai&theme=gruvbox&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SohamPrabhudesai&theme=gruvbox&hide_border=true)
 
@@ -138,4 +138,4 @@ Now I do the same with **systems and ideas**.
 
 ## Contribution Snake
 
-![snake gif](https://github.com/SohamPrabhudesai/SohamPrabhudesai/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SohamPrabhudesai/SohamPrabhudesai/raw/output/github-contribution-grid-snake.svg)
