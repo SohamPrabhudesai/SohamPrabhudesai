@@ -19,7 +19,7 @@ I enjoy working close to the system; building tools that interact with filesyste
 - Interested in **backend systems, OS tooling, and infrastructure**
 
 Currently studying at **Vellore Institute of Technology** (Expected 2027).
-Working as a Software Engineer Intern @ PixelCompute
+Working as a **Software Engineer Intern @ PixelCompute**
 
 ---
 
