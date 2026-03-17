@@ -38,7 +38,7 @@ Working as a **Software Engineer Intern @ PixelCompute**
 Filesystem Internals • CLI Tools • Automation Engines
 Concurrency Basics • REST Fundamentals • OS-level scripting
 
-### Frontend (Supporting)
+### Frontend
 
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -51,7 +51,7 @@ Concurrency Basics • REST Fundamentals • OS-level scripting
 
 ### Tools
 
-Linux • Git • GitHub • Docker • WSL • CI/CD Concepts
+Linux • Git • GitHub • WSL
 
 ---
 
