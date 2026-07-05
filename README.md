@@ -1,22 +1,23 @@
 <h1 align="center">Hey I'm Soham</h1>
-<h3 align="center">Builder • Backend & Systems Developer • Linux Enthusiast</h3>
+<h3 align="center">Backend Developer • Ruby on Rails • Systems Programming • Linux Enthusiast</h3>
 
 <p align="center">
-I enjoy building developer tools, automation engines, and systems that work close to the OS.
+I enjoy building scalable backend applications, developer tools, and automation software.
 </p>
 
 ---
 
 ## About Me
 
-Computer Science undergraduate focused on **backend systems, developer tooling, and automation**.
+Computer Science undergraduate focused on backend engineering, systems programming, and developer tooling.
 
-I enjoy working close to the system; building tools that interact with filesystems, operating systems, and developer workflows.
+I enjoy designing reliable backend services, building APIs, and creating tools that interact closely with operating systems and developer workflows.
 
-- Building **automation engines and devtools**
-- Linux user who enjoys exploring **system internals**
-- Learning and building more with **Rust**
-- Interested in **backend systems, OS tooling, and infrastructure**
+- Building backend applications and developer tools
+- Experienced with Ruby on Rails and PostgreSQL
+- Linux user who enjoys exploring system internals
+- Learning and building more with Rust
+- Interested in backend systems, infrastructure, databases, and OS tooling
 
 Currently studying at **Vellore Institute of Technology** (Expected 2027).
 Working as a **Software Engineer Intern @ PixelCompute**
@@ -27,16 +28,26 @@ Working as a **Software Engineer Intern @ PixelCompute**
 
 ### Languages
 
+![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Backend & Systems
+### Backend
 
-Filesystem Internals • CLI Tools • Automation Engines
-Concurrency Basics • REST Fundamentals • OS-level scripting
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=for-the-badge)
+
+REST APIs • Active Record • Authentication • Authorization • Background Jobs • Service Objects • Minitest
+
+### Systems
+
+Filesystem Internals • CLI Tools • Automation Engines • OS-level Scripting • Concurrency Basics
 
 ### Frontend
 
